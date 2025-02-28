@@ -61,5 +61,8 @@
 		"typescript-eslint": "^8.20.0",
 		"vite": "^6.0.0",
 		"wrangler": "^3.111.0"
+	},
+	"dependencies": {
+		"svelvet": "^11.0.5"
 	}
 }
