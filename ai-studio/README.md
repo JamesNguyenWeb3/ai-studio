@@ -56,3 +56,5 @@ To publish your library to [npm](https://www.npmjs.com):
 ```bash
 npm publish
 ```
+
+## Mac mini m4 connect checking
